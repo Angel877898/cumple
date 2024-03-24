@@ -13,10 +13,10 @@ function App() {
     const targetDate = new Date('2024-04-01').getTime();
     const lastFlippedDate = localStorage.getItem('lastFlippedDate');
 
-    // if (today < targetDate) {
-    //   alert('No puedes voltear las tarjetas antes del 1 de abril de 2024.');
-    //   return;
-    // }
+    if (today < targetDate) {
+      alert('No puedes voltear las tarjetas antes del 1 de abril de 2024.');
+      return;
+    }
 
     if (index === 22 && today !== new Date('2024-04-24').getTime()) {
       alert('La última tarjeta solo se puede abrir el 24 de abril de 2024.');
