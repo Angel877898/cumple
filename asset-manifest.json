@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cumple/static/css/main.f0ec6a89.css",
+    "main.js": "/cumple/static/js/main.5ac6a7ca.js",
+    "static/media/fondo.jpg": "/cumple/static/media/fondo.449ff34393a32cc9fec3.jpg",
+    "static/media/gift.jpg": "/cumple/static/media/gift.e840fbd9409b6ccfe594.jpg",
+    "index.html": "/cumple/index.html",
+    "main.f0ec6a89.css.map": "/cumple/static/css/main.f0ec6a89.css.map",
+    "main.5ac6a7ca.js.map": "/cumple/static/js/main.5ac6a7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ec6a89.css",
+    "static/js/main.5ac6a7ca.js"
+  ]
+}
