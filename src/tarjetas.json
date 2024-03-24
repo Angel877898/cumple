@@ -1,0 +1,26 @@
+[
+    { "id": 1, "texto": "Vamos por el smoothie <3", "buena":true },
+    { "id": 2, "texto": "Regalo sorpresa 3", "buena":true },
+    { "id": 3, "texto": "Hamburguesitas", "buena":true },
+    { "id": 4, "texto": "Postrecito <3", "buena":true },
+    { "id": 5, "texto": "Baño juntitos", "buena":true },
+    { "id": 6, "texto": "Jugar a dibujar", "buena":true },
+    { "id": 7, "texto": "Snickers" },
+    { "id": 8, "texto": "Cervezas artezanales", "buena":true },
+    { "id": 9, "texto": "Uy... mala suerte :(", "buena":false },
+    { "id": 10, "texto": "Vemos la peli que tu quieras <3", "buena":true },
+    { "id": 11, "texto": "Ya retirate estas pero si bieen saladooo", "buena":false },
+    { "id": 12, "texto": "Beso" },
+    { "id": 13, "texto": "Regalo sorpresa 2", "buena":true },
+    { "id": 14, "texto": "Llaverito", "buena":true },
+    { "id": 15, "texto": "Armamos un lego o rompecabezas juntos <3", "buena":true },
+    { "id": 16, "texto": "Nos aprendemos algun bailecito que quieras", "buena":true },
+    { "id": 17, "texto": "Jabon que necesites para tu carita", "buena":true },
+    { "id": 18, "texto": "Andas bien salado hoy :(", "buena":false },
+    { "id": 19, "texto": "Pediremos de comer/cenar lo que se te antoje", "buena":true },
+    { "id": 20, "texto": "Regalo sorpresa 1", "buena":true },
+    { "id": 21, "texto": "Pase de batalla TFT", "buena":true },
+    { "id": 22, "texto": "SALADISIMOOOO :(", "buena":false },
+    { "id": 23, "texto": "Regalo especial, cierra los ojos <3", "buena":true }
+  ]
+  
